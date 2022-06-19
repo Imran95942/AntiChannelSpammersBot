@@ -19,10 +19,9 @@
 
 - [x] 支持频道马甲白名单
 
-- [x] 支持封禁 / 解封频道马甲
 
 <p align="center">
-<a href="https://railway.app/new/template?template=https://github.com/decentboyy/Antichannelbanbot&envs=BOT_TOKEN%2CAPI_ID%2CAPI_HASH%2Cparse_mode"><img src="https://img.shields.io/badge/Deploy%20To%20Railway-blackwhite?style=for-the-badge&logo=railway" width="252""/</a>
+<a href="https://railway.app/new/template?template=[https://github.com/decentboyy/Antichannelban](https://github.com/Imran95942/AntiChannelSpammersBot) bot&envs=BOT_TOKEN%2CAPI_ID%2CAPI_HASH%2Cparse_mode"><img src="https://img.shields.io/badge/Deploy%20To%20Railway-blackwhite?style=for-the-badge&logo=railway" width="252""/</a>
 
 ## 使用方法
 
